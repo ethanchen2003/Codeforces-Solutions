@@ -14,4 +14,9 @@ Solutions from every [Codeforces](https://codeforces.com/problemset) problem I'v
 | [Anna and the Valentine's Day Gift](https://github.com/ethanchen2003/Codeforces-Solutions/tree/main/src/Anna%20and%20the%20Valentine's%20Day%20Gift) | 1931E | Games, Greedy, Math, Sortings | [![:bars:](../icons/code-forces(64).png)](https://codeforces.com/contest/1931/problem/E) |
 | [Chat Screenshots](https://github.com/ethanchen2003/Competitive-Programming-Solutions/tree/main/src/Chat%20Screenshots) | 1929F | Combinatorics, Dfs, Graphs | [![:bars:](../icons/code-forces(64).png)](https://codeforces.com/contest/1929/problem/F) |
 | [Turtle Fingers: Count the Values of k](https://github.com/ethanchen2003/Competitive-Programming-Solutions/tree/main/src/Turtle%20Fingers%20Count%20the%20Values%20of%20k) | 1933C | Brute Force, Implementation, Math, Number Theory | [![:bars:](../icons/code-forces(64).png)](https://codeforces.com/contest/1933/problem/C) |
+| [Turtle Tenacity: Continual Mods](https://github.com/ethanchen2003/Competitive-Programming-Solutions/tree/main/src/Turtle%20Tenacity%20Continual%20Mods) | 1933D | Constructive Algorithms, Math, Number Theory, Sortings | [![:bars:](../icons/code-forces(64).png)](https://codeforces.com/contest/1933/problem/D) |
+| [Turtle vs. Rabbit Race: Optimal Trainings](https://github.com/ethanchen2003/Competitive-Programming-Solutions/edit/main/Codeforces/README.MD#:~:text=Turtle%20vs.%20Rabbit-,Race,-Optimal%20Trainings) | 1933D | Binary Search, Implementation, Math | [![:bars:](../icons/code-forces(64).png)](https://codeforces.com/contest/1933/problem/E) |
+
+
+
 
